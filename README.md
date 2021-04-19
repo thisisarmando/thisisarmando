@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Armando!
 - 👀 I’m interested in tech and olympic lifting
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on all things 
+- 💞️ I’m looking to collaborate on data analysis projects 
 - 📫 Find me on twitter at @ThisisArmando
